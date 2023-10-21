@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'package:modul1/app/modules/home/views/home_page.dart';
+import "package:flutter/services.dart";
+import '../app/modules/home/views/home_page.dart';
 import 'package:modul1/app/modules/home/views/single_image_picker.dart';
 import 'package:modul1/app/modules/home/views/single_item_page.dart';
 import 'package:modul1/app/modules/home/views/single_item_page2.dart';
