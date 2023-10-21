@@ -1,0 +1,31 @@
+name: modul1
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: ">=3.1.2 <4.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  get: 4.6.6
+  flutter:
+    sdk: flutter
+  image_picker: ^1.0.4
+  dotted_border: ^2.1.0
+  permission_handler: ^11.0.1
+  http: ^1.1.0
+  webview_flutter: ^4.4.1
+  dio: ^5.3.3
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - images/
+    - images2/
+    - images3/
+    - images4/
+  uses-material-design: true
